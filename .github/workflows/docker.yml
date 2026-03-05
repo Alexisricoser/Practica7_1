@@ -41,5 +41,6 @@ jobs:
           tags: | 
             kartoffeln/practica7.1:latest 
 
-            ghcr.io/Alexisricoser/practica7.1:latest 
+            ghcr.io/alexisricoser/practica7.1:latest 
+
 
