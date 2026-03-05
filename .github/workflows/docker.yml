@@ -39,6 +39,7 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | 
-            Alexisricoser/practica7.1:latest 
+            kartoffeln/practica7.1:latest 
 
             ghcr.io/Alexisricoser/practica7.1:latest 
+
